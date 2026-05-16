@@ -139,12 +139,6 @@ flutter run
 
 ![Sepet](screenshots/cart_empty.png)
 
-Repository örneği:
-
-```text
-https://github.com/EgeGokbayir/shop_project.git
-```
-
 ## Not
 
 Bu proje eğitim amacıyla hazırlanmıştır. Kullanılan API ve görseller gerçek bir ticari e-ticaret sistemini temsil etmez.
