@@ -94,7 +94,7 @@ Not: Klasör yapısı proje içeriğine göre küçük farklılıklar gösterebi
 GitHub repository sayfasından projeyi indirin veya aşağıdaki komutla klonlayın:
 
 ```bash
-git clone https://github.com/kullanici-adiniz/shop_project.git
+git clone https://github.com/EgeGokbayir/shop_project.git
 ```
 
 Ardından proje klasörüne girin:
@@ -142,7 +142,7 @@ flutter run
 Repository örneği:
 
 ```text
-https://github.com/egegokbayir/mini-katalog-uygulamasi
+https://github.com/EgeGokbayir/shop_project.git
 ```
 
 ## Not
