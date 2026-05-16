@@ -1,6 +1,6 @@
 # Mini Katalog Uygulaması
 
-Bu proje, Flutter eğitim süreci kapsamında hazırlanmış temel seviyede bir mobil katalog uygulamasıdır. Projenin amacı; Flutter widget yapısı, sayfa geçişleri, veri modeli oluşturma, API üzerinden veri çekme, listeleme, detay ekranı oluşturma ve basit sepet mantığını uygulamalı olarak göstermektir.
+Bu proje, Flutter günlük eğitim süreci kapsamında hazırlanmış temel seviyede bir mobil katalog uygulamasıdır. Projenin amacı; Flutter widget yapısı, sayfa geçişleri, veri modeli oluşturma, API üzerinden veri çekme, listeleme, detay ekranı oluşturma ve basit sepet mantığını uygulamalı olarak göstermektir.
 
 ## Proje Hakkında
 
@@ -125,19 +125,19 @@ flutter run
 
 ### Ana Sayfa
 
-![Ana Sayfa](screenshots/ana_sayfa.png)
-
-### Ürün Listesi
-
-![Ürün Listesi](screenshots/urun_listesi.png)
+![Ana Sayfa](screenshots/discover.png)
 
 ### Ürün Detay Sayfası
 
-![Ürün Detay](screenshots/urun_detay.png)
+![Ürün Listesi](screenshots/detail.png)
 
-### Sepet Sayfası
+### Dolu Sepet Sayfası
 
-![Sepet](screenshots/sepet.png)
+![Ürün Detay](screenshots/cart_full.png)
+
+### Boş Sepet Sayfası
+
+![Sepet](screenshots/cart_empty.png)
 
 Repository örneği:
 
